@@ -63,13 +63,13 @@ When both satisfaction level and ease of tracking packages have the same mean va
 ---
 ## ANALYSIS
 
-# DEMOGRAPHY
+### DEMOGRAPHY
 
 . The pie chart shows there are more males spread in this data set which carries a weight of 56% while the female and others carries the remaining 47% cumulative.
 . The respondents for this study have a high response rate from the 18-35 age group and the least response rate from 65 and above age group.
 This implies that our analysis will be based on mostly Gen Z and millennials which are our target audience.
 
-# DEMOGRAPHY VS DELIVERY SERVICE USAGE
+### DEMOGRAPHY VS DELIVERY SERVICE USAGE
 The bar charts above show the delivery usage by age, gender, and Nationality.
 
 Age: The chart shows that the age group 18-35 uses delivery services more than other age groups.
@@ -77,3 +77,41 @@ Age: The chart shows that the age group 18-35 uses delivery services more than o
 Gender: The female gender came up as the highest users of delivery services. The reason could be that women tend to have more shopping needs than the other genders; Males and others.
 
 Nationality: Although this sample is not suitable enough to represent this population, more Nigerians who were the majority of the respondents use delivery services more than other nationalities.
+
+### REAL TIME VS DEMOGRAPHY
+
+By age: Most of the respondent between 18-35 confirm that they are willing to use a real-time trackage solution if in existence. However, respondents who fall in the senior citizens category are not interested in the real-time tracking solution. This could be due to their preferences and might prefer traditional shopping to online shopping or ordering.
+
+By gender: More females are interested in the real-time tracking solution than males are interested. On the contrary, some more non-interested females are interested in the real-time tracking solution than that of non-interested males.
+
+Nationality: most Nigerians claim that they have used a real-time tracking system for their orders/shipments. On the contrary, more Nigerians have not used the real-time tracking solution for their orders/shipments.
+
+### TRACKING EASE VS SATISFACTION
+
+A correlation coefficient of 0.515 indicates a moderately strong positive correlation between "Tracking_Ease" and "Satisfaction_Level".
+
+This means that as the ease of tracking increases, satisfaction levels tend to increase as well.
+
+However, it's important to note that correlation does not imply causation, so while these variables may be correlated, there could be other factors influencing satisfaction levels.
+
+### FREQUENCY OF DELIVERY USAGE
+Most respondents rarely or almost never use a delivery service for their orders or packages. even in this era when e-commerce is at its boom, it is surprising to see that such is the case.
+
+However, we still have respondents who use delivery services multiple times a month which indicates, not entirely, the availability of demand.
+
+### CHALLENGES
+The above bar chart showing the distribution of challenges indicates that most people experience delay (87 from the response) in deliveries and not so much experience package misplacement.
+
+Communication issues are also part of the issues experienced after delay. There are also people who have never experienced any challenge while using a delivery service.
+
+### SATISFACTION VS REAL-TIME UPDATE IMPORTANCE
+A correlation coefficient was used for this analysis and it indicates that there appears to be a very weak positive relationship between Satisfaction_Level and 
+RealTime_Update_Importance, but it's not substantial enough to draw strong conclusions.
+
+### MAP INTEGRATION WILLINGNESS
+Even without prediction, most of our respondents are willing to use this tracking solution as they see it as a solution worthy of solving their problems.
+
+---
+## CONCLUSION AND RECOMMENDATIONS
+
+
