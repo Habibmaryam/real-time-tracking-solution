@@ -22,31 +22,31 @@ Google Colab: for analysis using Python language
 
 
 ---
-## STEPS: 
+## STEPS
 
-Importing necessary libraries on google colab using python 
+Importing necessary libraries on Google Colab using Python 
 
 Read in the dataset 
 
-Get full information of the dataset using necessary syntax ( .info(), .head(), . tail(), .shape(), .describe() etc 
+Get the full information on the dataset using the necessary syntax ( .info(), .head(), . tail(), .shape(), .describe() etc 
 
-Data cleaning: (Dealing with missing values, dropping unnecessary columns, Tackling RealTime_Update, Regrouping nationality column etc 
+Data cleaning: (Dealing with missing values, dropping unnecessary columns, Tackling RealTime_Update, Regrouping nationality column, etc 
 
 EDA (Exploratory Data Analysis) 
 
-Build Model using linear regression 
+Build a Model using linear regression 
 
-Make prediction and get the accuracy 
+Make predictions and get the accuracy 
 
 ---
 ## UNDERSTANDING THE DATASET
-We used various methods to understand our data set. Some of these methods are in aspects, but not limited to:
+We used various methods to understand our data set. Some of these methods are aspects, but not limited to:
 
-The .head() method: Which was used to call out the first five entry of the data set
+The .head() method: This was used to call out the first five entries of the data set
 The .tail() method: was used to call the last five entries of the data set so as to know how the data set looks like.
 The .shape() method: was used to know the number of rows and columns in the data set. It shows that this data set contains 192 rows and 16 columns
-The .info() method is use to know the concise summary of the data set including the columns that allow for null values and those that do not, number of entries per column, and data types.
-We went ahead to check for null values ad duplicates. No duplicate was found. However, feedback and feature request had 27 null values each while real time tracking usage had just 2 null values.
+The .info() method is used to know the concise summary of the data set including the columns that allow for null values and those that do not, the number of entries per column, and data types.
+We went ahead to check for null values and duplicates. No duplicate was found. However, feedback and feature requests had 27 null values each while real-time tracking usage had just 2 null values.
 
 ---
 ## STATISTICAL SUMMARY OF DATA SET
@@ -54,7 +54,7 @@ For "Tracking_Ease", the mean is approximately 3.27, and for "Satisfaction_Level
 
 For both columns, the 25th, 50th, and 75th percentiles are relatively close, suggesting that the data is evenly distributed across the range of values.
 
-from our descriptive statistics, using the average (mean) majority of respondents finds tracking their packages and satisfaction level moderately easy, suggesting the process might be managable but there is still room for improvement.
+from our descriptive statistics, using the average (mean) majority of respondents find tracking their packages and satisfaction level moderately easy, suggesting the process might be manageable but there is still room for improvement.
 
 enhancing tracking systems would improve user satisfaction with their entire experience
 
@@ -63,17 +63,17 @@ When both satisfaction level and ease of tracking packages have the same mean va
 ---
 ## ANALYSIS
 
-DEMOGRAPHY
+# DEMOGRAPHY
 
-. The pie chart shows there are more male spread in this data set which carries a weight of 56% while the female and others carries the remaining 47% cumulative.
-. The responsdents for this study have a high response rate from the 18-35 age group and the least response rate from 65 and above age group.
-This implies that our analysis will be based on mostly Gen zs and millenials which are our target audience.
+. The pie chart shows there are more males spread in this data set which carries a weight of 56% while the female and others carries the remaining 47% cumulative.
+. The respondents for this study have a high response rate from the 18-35 age group and the least response rate from 65 and above age group.
+This implies that our analysis will be based on mostly Gen Z and millennials which are our target audience.
 
-## DEMOGRAPHY VS DELIVERY SERVICE USAGE
+# DEMOGRAPHY VS DELIVERY SERVICE USAGE
 The bar charts above show the delivery usage by age, gender, and Nationality.
 
-Age: The chart shows that age group 18-35 use delivery servicesmore than other age groups.
+Age: The chart shows that the age group 18-35 uses delivery services more than other age groups.
 
-Gender: The female gender came up as the highest users of delivery services. The reason could be that women tend to have more shopping needs than the other genders; Male and others.
+Gender: The female gender came up as the highest users of delivery services. The reason could be that women tend to have more shopping needs than the other genders; Males and others.
 
 Nationality: Although this sample is not suitable enough to represent this population, more Nigerians who were the majority of the respondents use delivery services more than other nationalities.
