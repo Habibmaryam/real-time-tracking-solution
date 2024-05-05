@@ -3,9 +3,9 @@
 ---
 ## INTRODUCTION 
 
-We are developing a real-time tracking solution to be used by small businesses online or offline using the embedded google map for ease in tracking real time goods as opposed to the alert messages received before getting your orders or goods. In this regard, a survey questionnaire was drafted out to get potential users to hear from their experiences while waiting to get their products, their pain points and to know the way forward.  
+We are developing a real-time tracking solution to be used by small businesses online or offline using the embedded Google map for ease in tracking real-time goods as opposed to the alert messages received before getting your orders or goods. In this regard, a survey questionnaire was drafted to get potential users to hear their experiences while waiting to get their products, their pain points and to know the way forward.  
 
-The aim of the tracking solution project is to solve the issues with logistic problem by allowing users to track their shipment / packages at any given time. So they do not always need to liase with their suppliers all the time so we analyzed the dataset and we got some insights from it. 
+The aim of the tracking solution project is to solve the issues with logistic problems by allowing users to track their shipments/packages at any given time. So they do not always need to liaise with their suppliers all the time so we analyzed the dataset and we got some insights from it. 
 
 It will be hosted on a temporary website
 
@@ -15,11 +15,9 @@ It will be hosted on a temporary website
 
 We took the following steps  
 
-Collection & Compillation of Data: Data was collected through primary method of collection by  sharing the link to the questionnaire on various E-channels such as Instagram, WhatsApp, Twitter, and one on one communication 
+Collection & Compilation of Data: Data was collected through the primary method of collection by  sharing the link to the questionnaire on various E-channels such as Instagram, WhatsApp, Twitter, and one-on-one communication 
 
-Google Colab: for analysis using Python language 
-
-
+Google Colab was used for analysis using Python language 
 
 ---
 ## STEPS
@@ -50,7 +48,7 @@ We went ahead to check for null values and duplicates. No duplicate was found. H
 
 ---
 ## STATISTICAL SUMMARY OF DATA SET
-For "Tracking_Ease", the mean is approximately 3.27, and for "Satisfaction_Level", it is approximately 3.19. This suggests that, on average, respondents rated tracking ease slightly higher than satisfaction level. Both mean are close to the midpoint of the rating scale, This suggests that, on average, respondents provided moderate ratings for tracking ease and satisfaction level.
+For "Tracking_Ease", the mean is approximately 3.27, and for "Satisfaction_Level", it is approximately 3.19. This suggests that, on average, respondents rated tracking ease slightly higher than satisfaction level. Both means are close to the midpoint of the rating scale, This suggests that, on average, respondents provided moderate ratings for tracking ease and satisfaction level.
 
 For both columns, the 25th, 50th, and 75th percentiles are relatively close, suggesting that the data is evenly distributed across the range of values.
 
@@ -66,7 +64,7 @@ When both satisfaction level and ease of tracking packages have the same mean va
 ### DEMOGRAPHY
 
 . The pie chart shows there are more males spread in this data set which carries a weight of 56% while the female and others carries the remaining 47% cumulative.
-. The respondents for this study have a high response rate from the 18-35 age group and the least response rate from 65 and above age group.
+. The respondents for this study have a high response rate from the 18-35 age group and the least response rate from the 65 and above age group.
 This implies that our analysis will be based on mostly Gen Z and millennials which are our target audience.
 
 ### DEMOGRAPHY VS DELIVERY SERVICE USAGE
