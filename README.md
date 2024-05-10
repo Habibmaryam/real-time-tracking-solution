@@ -64,7 +64,7 @@ When both satisfaction level and ease of tracking packages have the same mean va
 ### DEMOGRAPHY
 
 . The pie chart shows there are more males spread in this data set which carries a weight of 56% while the female and others carries the remaining 47% cumulative.
-. The respondents for this study have a high response rate from the 18-35 age group and the least response rate from the 65 and above age group.
+. The respondents for this study have a high response rate from the 18-35 age group and the lowest response rate from the 65 and above age group.
 This implies that our analysis will be based on mostly Gen Z and millennials which are our target audience.
 
 ### DEMOGRAPHY VS DELIVERY SERVICE USAGE
@@ -111,5 +111,21 @@ Even without prediction, most of our respondents are willing to use this trackin
 
 ---
 ## CONCLUSION AND RECOMMENDATIONS
+# FINDINGS
+With the research done on this project, we find that Trackage is important to fulfill user needs in the
+logistics and delivery industry, if done right.
+Research shows that users have an overwhelmingly positive response to the possibility of this functionality.
+It is worth noting that the majority of the issues users testing Trackage had were connected to not having backend support, so it stands to reason that with backend support the functionality will be ready to go to
+market.
 
+# FUTURE WORK
+A user could create an order by going to a logistics website that is integrated with trackage snap goods, upload, and send a dispatch to pick up the goods process which will show on the user's side. Then when processed the status changes to in-transit when time and date are set.
 
+# RECOMMENDATIONS
+Recommendations for further research include;
+How to make the app more intuitive
+How to secure data on the app
+The app should be clear on how users can track their packages
+
+---
+## THE END
