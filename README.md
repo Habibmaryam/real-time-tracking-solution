@@ -111,21 +111,21 @@ Even without prediction, most of our respondents are willing to use this trackin
 
 ---
 ## CONCLUSION AND RECOMMENDATIONS
-# FINDINGS
+### FINDINGS
 With the research done on this project, we find that Trackage is important to fulfill user needs in the
 logistics and delivery industry, if done right.
 Research shows that users have an overwhelmingly positive response to the possibility of this functionality.
 It is worth noting that the majority of the issues users testing Trackage had were connected to not having backend support, so it stands to reason that with backend support the functionality will be ready to go to
 market.
 
-# FUTURE WORK
+### FUTURE WORK
 A user could create an order by going to a logistics website that is integrated with trackage snap goods, upload, and send a dispatch to pick up the goods process which will show on the user's side. Then when processed the status changes to in-transit when time and date are set.
 
-# RECOMMENDATIONS
+### RECOMMENDATIONS
 Recommendations for further research include;
 How to make the app more intuitive
 How to secure data on the app
 The app should be clear on how users can track their packages
 
 ---
-## THE END
+### THE END
