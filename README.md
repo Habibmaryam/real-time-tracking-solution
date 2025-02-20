@@ -52,7 +52,7 @@ For "Tracking_Ease", the mean is approximately 3.27, and for "Satisfaction_Level
 
 For both columns, the 25th, 50th, and 75th percentiles are relatively close, suggesting that the data is evenly distributed across the range of values.
 
-from our descriptive statistics, using the average (mean) majority of respondents find tracking their packages and satisfaction level moderately easy, suggesting the process might be manageable but there is still room for improvement.
+from our descriptive statistics, using the average (mean), the majority of respondents find tracking their packages and satisfaction level moderately easy, suggesting the process might be manageable but there is still room for improvement.
 
 enhancing tracking systems would improve user satisfaction with their entire experience
 
